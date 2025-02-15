@@ -3,5 +3,5 @@
 
 std::string printGameOver(){
 	
-	return "Game Over!!!";
+	return "Game Over!! lo lo lo!";
 }
